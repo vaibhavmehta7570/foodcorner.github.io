@@ -1,0 +1,33 @@
+body {
+  background-image: url("1.jpg");
+   background-repeat: no-repeat;
+  background-size: cover;
+}
+.div1{
+  width: 400px;
+  padding: 20px;
+  border: 5px solid white;
+  margin: 0;
+  background-color: #C5C5C4;
+   opacity: 0.9;
+   margin-top: 250px;
+   margin-left: 350px;
+   padding-top :30px;
+   font-size: 150%;
+   float:left;
+
+}
+.div2{
+  width: 400px;
+  padding: 20px;
+  border: 5px solid white;
+  margin: 0;
+  background-color: #C5C5C4;
+   opacity: 0.9;
+   margin-top: 250px;
+   margin-left: 50px; 
+   margin-right: 250px;
+   padding-top :30px;
+   font-size: 150%;
+   float: right;
+}

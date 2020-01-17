@@ -1,0 +1,16 @@
+h1
+{
+	
+	font-family: 'Righteous', cursive;
+	font-family: 'Fruktur', cursive;
+}
+h2
+{
+	padding-left: 30px;
+	font-family: 'Righteous', cursive;
+}
+p,form
+{
+	margin-left: 20px;
+	padding-left: 20px;
+}
